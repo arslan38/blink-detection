@@ -1,1 +1,0 @@
-python blinking_detectionD.py 
