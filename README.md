@@ -5,9 +5,7 @@ This repository contains a solution for blinking detection with landmark detecti
 <img src="https://i.hizliresim.com/Fjq2fE.png" data-canonical-src="https://i.hizliresim.com/Fjq2fE.png" width="300" height="300" />
 
 
-#### Important Note: You should run it as adminastrator. Because communication between python and c # is provided by blinktext.txt file. And if you don't run as adminastrator, program cannot change text file and you will get error. 
-
-#### Important Note 2: This branch contains only python code. If you want to access all project you should check main branch.
+#### _Important Note_ : This branch contains only python code. If you want to access all project you should check main branch.
 
 --- 
 
