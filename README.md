@@ -22,6 +22,10 @@ pip install -r requirements.txt
 
 ### How It Works:
 
+```
+Run EyeBlinkDetectionApp.exe
+```
+
 There are two main parts in this project: Algorithm in python and GUI in C#
 
 #### Algorithm in Python
