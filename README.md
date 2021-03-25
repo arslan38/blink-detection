@@ -1,6 +1,6 @@
 # Blink Detection Project with OpenCV and dlib
 
-This repository contains a solution for blinking detection with landmark detection on OpenCV and dlib. I uploaded a .rar file because the size of the Landmark module is nearly 100MB. The total size of the project is 150MB.
+This repository contains a solution for blinking detection with landmark detection on OpenCV and dlib. I uploaded a .rar file because the size of the Landmark module is nearly 100MB. The total size of the project is 150MB. The zipped version is 86MB.
 
 <img src="https://i.hizliresim.com/Fjq2fE.png" data-canonical-src="https://i.hizliresim.com/Fjq2fE.png" width="300" height="300" />
 
