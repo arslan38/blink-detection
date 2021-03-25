@@ -1,13 +1,13 @@
 # Blink Detection Project with OpenCV and dlib
 
-This repository contains a solution for blinking detection with landmark detection on OpenCV and dlib. I uploaded a .rar file because the size of the Landmark module is nearly 100MB. The total size of the project is 150MB.
+This repository contains a solution for blinking detection with landmark detection on OpenCV and dlib. I uploaded a .rar file because the size of the Landmark module is nearly 100MB. The total size of the project is 150MB. The zipped version is 86MB.
 
 <img src="https://i.hizliresim.com/Fjq2fE.png" data-canonical-src="https://i.hizliresim.com/Fjq2fE.png" width="300" height="300" />
 
 
-#### Important Note: You should run it as adminastrator. Because communication between python and c # is provided by blinktext.txt file. And if you don't run as adminastrator, program cannot change text file and you will get error. 
+#### _Important Note_: You should run it as adminastrator. Because communication between python and c # is provided by blinktext.txt file. And if you don't run as adminastrator, program cannot change text file and you will get error. 
 
-#### Important Note 2: If you want to work with python code without GUI you can just use BlinkDetection.py in python branch.
+#### _Important Note 2_: If you want to work with python code without GUI you can just use BlinkDetection.py in python branch.
 
 --- 
 
