@@ -9,6 +9,7 @@ This repository contains a solution for blinking detection with landmark detecti
 
 #### _Important Note 2_ : You must keep the landmark file in the same directory as the model. I am sorry about the size of the landmark file but I cannot shrink it.
 
+#### _Important Note 3_ : Don't forget to start Shell as administrator before running the program. If you forget, it may cause a permission error for the reason that I explained in the main branch.
 --- 
 
 ### Requirements:
@@ -21,6 +22,10 @@ pip install -r requirements.txt
 --- 
 
 ### How It Works:
+
+```
+python BlinkDetection.py
+```
 
 There are two main parts in this project: Algorithm in python and GUI in C#
 
