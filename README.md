@@ -7,7 +7,7 @@ This repository contains a solution for blinking detection with landmark detecti
 
 #### Important Note: You should run it as adminastrator. Because communication between python and c # is provided by blinktext.txt file. And if you don't run as adminastrator, program cannot change text file and you will get error. 
 
-#### Important Note 2: If you want to work with python code without GUI you can just use BlinkDetection.py.
+#### Important Note 2: If you want to work with python code without GUI you can just use BlinkDetection.py in python branch.
 
 --- 
 
