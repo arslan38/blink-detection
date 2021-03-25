@@ -7,7 +7,7 @@ This repository contains a solution for blinking detection with landmark detecti
 
 #### _Important Note_ : This branch contains only python code. If you want to access all project you should check main branch.
 
-#### _Important Note 2_ : You should unzip the landmark file and keep it in same directory. I am sorry about it but it is a large file.
+#### _Important Note 2_ : You must keep the landmark file in the same directory as the model. I am sorry about the size of the landmark file but I cannot shrink it.
 
 --- 
 
