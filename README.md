@@ -1,4 +1,4 @@
-# Blinking Detection Project with OpenCV
+# Blink Detection Project with OpenCV
 
 This repository contains a solution for blinking detection with landmark detection on OpenCV. I uploaded a .rar file because the size of the Landmark module is nearly 100MB. The total size of the project is 150MB.
 
@@ -28,7 +28,7 @@ There are two main parts in this project: Algorithm in python and GUI in C#
 
 - When I detect where the eyes are, drew two lines longitudinally and laterally. Now I have open and close information for both eyes.
 
-- But I want to detect blinking. But I wanted to detect blinking. Therefore, I have compared the two lines that I have obtained in very short intervals in a while loop and I have taken the ratio of these ratios. 
+- But I want to detect blink. But I wanted to detect blinking. Therefore, I have compared the two lines that I have obtained in very short intervals in a while loop and I have taken the ratio of these ratios. 
 
 - If the final ratio is lower than the threshold which I set, our algorithm send a 'blinked' message to our C# GUI with blinktext.txt. You can check Image 2 for the ratio of ratios. 
 
