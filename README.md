@@ -1,13 +1,13 @@
 # Blink Detection Project with OpenCV and dlib
 
-This repository contains a solution for blinking detection with landmark detection on OpenCV and dlib. I uploaded a .rar file because the size of the Landmark module is nearly 100MB. The total size of the project is 150MB.
+This repository contains a solution for blinking detection with landmark detection on OpenCV and dlib.
 
 <img src="https://i.hizliresim.com/Fjq2fE.png" data-canonical-src="https://i.hizliresim.com/Fjq2fE.png" width="300" height="300" />
 
 
 #### Important Note: You should run it as adminastrator. Because communication between python and c # is provided by blinktext.txt file. And if you don't run as adminastrator, program cannot change text file and you will get error. 
 
-#### Important Note 2: If you want to work with python code without GUI you can just use BlinkDetection.py.
+#### Important Note 2: This branch contains only python code. If you want to access all project you should check main branch.
 
 --- 
 
@@ -32,12 +32,7 @@ There are two main parts in this project: Algorithm in python and GUI in C#
 
 - But I want to detect blink. But I wanted to detect blinking. Therefore, I have compared the two lines that I have obtained in very short intervals in a while loop and I have taken the ratio of these ratios. 
 
-- If the final ratio is lower than the threshold which I set, our algorithm send a 'blinked' message to our C# GUI with blinktext.txt. You can check Image 2 for the ratio of ratios. 
-
-#### GUI in C#
-
-- When the user press the Start Detecting button C# runs python code(blinking_detectionD.py). It can take 10 seconds to start detecting. If the user doesn't blink for 25 seconds, a warning message appears in the lower right corner of the screen.
-- Having trouble button deletes the contents of the blinktext1.txt file. blinktext1.txt file contains 'exit' information for while in python code. If any conflict happens and this text becomes 'exit' before the start, the user should press the Having Trouble button.
+- If the final ratio is lower than the threshold which I set, our algorithm send a 'blinked' message to our console. You can check Image 2 for the ratio of ratios. 
 
 --- 
 
